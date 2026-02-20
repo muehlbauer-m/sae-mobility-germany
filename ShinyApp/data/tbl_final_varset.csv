@@ -2,28 +2,29 @@ raw_name,var_type,source,base_var,description
 mode_C3_poly_1,Main,MiD,mode_C3,"Car (MIV) contrast, mode_C3, OEPV = -1"
 mode_C2_poly_1,Main,MiD,mode_C2,"Cycling (Rad) contrast, mode_C2, OEPV = -1"
 mode_C1_poly_1,Main,MiD,mode_C1,"Walking (Fuss) contrast, mode_C1, OEPV = -1"
-inkar_anteil_erwerbstaetige_finanz_und_unternehmensdienstleistungen_poly_1,Main,INKAR,inkar_anteil_erwerbstaetige_finanz_und_unternehmensdienstleistungen,Share employed in finance and business services
+inkar_anteil_erwerbstaetige_verarbeitendes_gewerbe_an_industrie_poly_1,Main,INKAR,inkar_anteil_erwerbstaetige_verarbeitendes_gewerbe_an_industrie,Share employed in manufacturing vs. industry
+inkar_anteil_minijobs_frauen_poly_1,Main,INKAR,inkar_anteil_minijobs_frauen,Share of mini-jobs (women)
 inkar_arbeitsmarktpolitische_hilfen_der_ba_fuer_arbeit_kurzfristig_poly_1,Main,INKAR,inkar_arbeitsmarktpolitische_hilfen_der_ba_fuer_arbeit_kurzfristig,Short-term labor market policy support (Federal Employment Agency)
-inkar_arbeitsvolumen_poly_1,Main,INKAR,inkar_arbeitsvolumen,Volume of work
 inkar_asylbewerber_poly_1,Main,INKAR,inkar_asylbewerber,Asylum seekers
+inkar_beschaeftigte_in_kreativbranchen_poly_1,Main,INKAR,inkar_beschaeftigte_in_kreativbranchen,Employees in creative industries
 inkar_beschaeftigte_mit_anforderungsniveau_helfer_poly_1,Main,INKAR,inkar_beschaeftigte_mit_anforderungsniveau_helfer,Employees with helper skill level
-inkar_betreuungsquote_vorschulkinder_poly_1,Main,INKAR,inkar_betreuungsquote_vorschulkinder,Childcare rate for preschool children
 inkar_ehescheidungen_poly_1,Main,INKAR,inkar_ehescheidungen,Divorces
 inkar_einwohner_85_jahre_und_aelter_poly_1,Main,INKAR,inkar_einwohner_85_jahre_und_aelter,Inhabitants aged 85+
 inkar_einzelhandelsrelevante_kaufkraft_poly_1,Main,INKAR,inkar_einzelhandelsrelevante_kaufkraft,Retail-relevant purchasing power
 inkar_elterngeldbezieher_vaeter_im_ersten_lebensjahr_poly_1,Main,INKAR,inkar_elterngeldbezieher_vaeter_im_ersten_lebensjahr,Parental allowance recipients (fathers) in first year
 inkar_erreichbarkeit_von_ic_ec_ice_bahnhoefen_poly_1,Main,INKAR,inkar_erreichbarkeit_von_ic_ec_ice_bahnhoefen,IC/EC/ICE train station accessibility
 inkar_erreichbarkeit_von_oberzentren_poly_1,Main,INKAR,inkar_erreichbarkeit_von_oberzentren,Accessibility of major centers
+inkar_krankenhaeuser_der_umfassenden_notfallversorgung_poly_1,Main,INKAR,inkar_krankenhaeuser_der_umfassenden_notfallversorgung,Hospitals with comprehensive emergency care
 inkar_kurzarbeiter_poly_1,Main,INKAR,inkar_kurzarbeiter,Short-time workers
 inkar_landgerichte_poly_1,Main,INKAR,inkar_landgerichte,Regional courts
 inkar_leistungen_fuer_wohngeld_poly_1,Main,INKAR,inkar_leistungen_fuer_wohngeld,Housing benefit payments
-inkar_neubauwohnungen_je_einwohner_poly_1,Main,INKAR,inkar_neubauwohnungen_je_einwohner,New dwellings per inhabitant
 inkar_oberlandesgerichte_poly_1,Main,INKAR,inkar_oberlandesgerichte,Higher regional courts
-inkar_pflegeheimplaetze_poly_1,Main,INKAR,inkar_pflegeheimplaetze,Nursing home places
+inkar_offene_stellen_mit_anforderungsniveau_helfer_poly_1,Main,INKAR,inkar_offene_stellen_mit_anforderungsniveau_helfer,Job vacancies requiring helper skill level
 inkar_pkw_gas_poly_1,Main,INKAR,inkar_pkw_gas,Gas-powered cars
 inkar_pkw_hybrid_insgesamt_poly_1,Main,INKAR,inkar_pkw_hybrid_insgesamt,Hybrid cars (total)
 inkar_schlafgelegenheiten_in_beherbergungsbetrieben_poly_1,Main,INKAR,inkar_schlafgelegenheiten_in_beherbergungsbetrieben,Beds in accommodation establishments
-inkar_schluesselzuweisungen_poly_1,Main,INKAR,inkar_schluesselzuweisungen,Revenue equalization grants
+inkar_sdg_11_pkw_dichte_poly_1,Main,INKAR,inkar_sdg_11_pkw_dichte,(SDG 11) Car density
+inkar_sdg_5_frauenanteil_im_stadtrat_bzw_kreistag_poly_1,Main,INKAR,inkar_sdg_5_frauenanteil_im_stadtrat_bzw_kreistag,(SDG 5) Share of women in council
 inkar_strassenverkehrsunfaelle_poly_1,Main,INKAR,inkar_strassenverkehrsunfaelle,Road traffic accidents
 inkar_teilzeitbeschaeftigte_poly_1,Main,INKAR,inkar_teilzeitbeschaeftigte,Part-time employees
 inkar_unternehmensinsolvenzen_poly_1,Main,INKAR,inkar_unternehmensinsolvenzen,Business insolvencies
@@ -34,70 +35,88 @@ inkar_wohngeldhaushalte_mietzuschuss_poly_1,Main,INKAR,inkar_wohngeldhaushalte_m
 census_bodenflaeche_fliessgewaesser_poly_1,Main,Destatis,census_bodenflaeche_fliessgewaesser,Land area flowing water
 census_bodenflaeche_gewaesser_poly_1,Main,Destatis,census_bodenflaeche_gewaesser,Land area Gewaesser
 census_bodenflaeche_wald_poly_1,Main,Destatis,census_bodenflaeche_wald,Land area forest
-inkar_arbeitsvolumen_poly_2,Poly,INKAR,inkar_arbeitsvolumen,Volume of work
+census_wohnflaeche_in_wohngebaeuden_1_wohnung_poly_1,Main,Destatis,census_wohnflaeche_in_wohngebaeuden_1_wohnung,Wohnflaeche In Wohngebaeuden 1 dwelling
+inkar_anteil_minijobs_frauen_poly_2,Poly,INKAR,inkar_anteil_minijobs_frauen,Share of mini-jobs (women)
 inkar_asylbewerber_poly_2,Poly,INKAR,inkar_asylbewerber,Asylum seekers
+inkar_beschaeftigte_im_handwerk_poly_2,Poly,INKAR,inkar_beschaeftigte_im_handwerk,Employees in skilled trades
 inkar_beschaeftigte_mit_anforderungsniveau_helfer_poly_2,Poly,INKAR,inkar_beschaeftigte_mit_anforderungsniveau_helfer,Employees with helper skill level
+inkar_bibliotheken_poly_2,Poly,INKAR,inkar_bibliotheken,Libraries
 inkar_ehescheidungen_poly_2,Poly,INKAR,inkar_ehescheidungen,Divorces
 inkar_einzelhandelsrelevante_kaufkraft_poly_2,Poly,INKAR,inkar_einzelhandelsrelevante_kaufkraft,Retail-relevant purchasing power
 inkar_elterngeldbezieher_vaeter_im_ersten_lebensjahr_poly_2,Poly,INKAR,inkar_elterngeldbezieher_vaeter_im_ersten_lebensjahr,Parental allowance recipients (fathers) in first year
+inkar_gender_index_poly_2,Poly,INKAR,inkar_gender_index,Gender index
+inkar_krankenhaeuser_der_umfassenden_notfallversorgung_poly_2,Poly,INKAR,inkar_krankenhaeuser_der_umfassenden_notfallversorgung,Hospitals with comprehensive emergency care
+inkar_krankenhaeuser_mit_nofallversorgung_kinder_poly_2,Poly,INKAR,inkar_krankenhaeuser_mit_nofallversorgung_kinder,Hospitals with pediatric emergency care
 inkar_ladepunkte_je_100_elektrofahrzeuge_bev_poly_2,Poly,INKAR,inkar_ladepunkte_je_100_elektrofahrzeuge_bev,Charging points per 100 electric vehicles (BEV)
-inkar_leistungen_fuer_wohngeld_poly_2,Poly,INKAR,inkar_leistungen_fuer_wohngeld,Housing benefit payments
+inkar_offene_stellen_mit_anforderungsniveau_helfer_poly_2,Poly,INKAR,inkar_offene_stellen_mit_anforderungsniveau_helfer,Job vacancies requiring helper skill level
 inkar_polizeidienststellen_teilweise_besetzt_poly_2,Poly,INKAR,inkar_polizeidienststellen_teilweise_besetzt,Police stations -- partially staffed
+inkar_sdg_11_pkw_dichte_poly_2,Poly,INKAR,inkar_sdg_11_pkw_dichte,(SDG 11) Car density
+inkar_sdg_5_frauenanteil_im_stadtrat_bzw_kreistag_poly_2,Poly,INKAR,inkar_sdg_5_frauenanteil_im_stadtrat_bzw_kreistag,(SDG 5) Share of women in council
+inkar_stimmenanteile_spd_poly_2,Poly,INKAR,inkar_stimmenanteile_spd,Vote share SPD
 inkar_unternehmensinsolvenzen_poly_2,Poly,INKAR,inkar_unternehmensinsolvenzen,Business insolvencies
 inkar_verbraucherinsolvenzverfahren_poly_2,Poly,INKAR,inkar_verbraucherinsolvenzverfahren,Consumer insolvency proceedings
 inkar_wasserflaeche_poly_2,Poly,INKAR,inkar_wasserflaeche,Water area
 inkar_weibliche_berufseinstiegswanderer_poly_2,Poly,INKAR,inkar_weibliche_berufseinstiegswanderer,Female career entry migrants
 inkar_wohnflaeche_poly_2,Poly,INKAR,inkar_wohnflaeche,Living space
-mode_C1:census_altenquotient_maennlich.x,Inter,MiD × Destatis,mode_C1 × census_altenquotient_maennlich.x,Walking (Fuss) × altenquotient maennlich.x
 mode_C1:census_bodenflaeche_fliessgewaesser,Inter,MiD × Destatis,mode_C1 × census_bodenflaeche_fliessgewaesser,Walking (Fuss) × bodenflaeche fliessgewaesser
 mode_C1:census_wohnflaeche_in_wohngebaeuden_1_wohnung,Inter,MiD × Destatis,mode_C1 × census_wohnflaeche_in_wohngebaeuden_1_wohnung,Walking (Fuss) × wohnflaeche in wohngebaeuden 1 wohnung
 mode_C1:inkar_anteil_erwerbstaetige_verarbeitendes_gewerbe_an_industrie,Inter,MiD × INKAR,mode_C1 × inkar_anteil_erwerbstaetige_verarbeitendes_gewerbe_an_industrie,Walking (Fuss) × anteil erwerbstaetige verarbeitendes gewerbe an industrie
 mode_C1:inkar_arbeitsmarktpolitische_hilfen_der_ba_fuer_arbeit_kurzfristig,Inter,MiD × INKAR,mode_C1 × inkar_arbeitsmarktpolitische_hilfen_der_ba_fuer_arbeit_kurzfristig,Walking (Fuss) × arbeitsmarktpolitische hilfen der ba fuer arbeit kurzfristig
 mode_C1:inkar_asylbewerber,Inter,MiD × INKAR,mode_C1 × inkar_asylbewerber,Walking (Fuss) × asylbewerber
+mode_C1:inkar_beschaeftigte_im_handwerk,Inter,MiD × INKAR,mode_C1 × inkar_beschaeftigte_im_handwerk,Walking (Fuss) × beschaeftigte im handwerk
 mode_C1:inkar_beschaeftigte_mit_anforderungsniveau_helfer,Inter,MiD × INKAR,mode_C1 × inkar_beschaeftigte_mit_anforderungsniveau_helfer,Walking (Fuss) × beschaeftigte mit anforderungsniveau helfer
+mode_C1:inkar_bibliotheken,Inter,MiD × INKAR,mode_C1 × inkar_bibliotheken,Walking (Fuss) × bibliotheken
 mode_C1:inkar_einwohner_85_jahre_und_aelter,Inter,MiD × INKAR,mode_C1 × inkar_einwohner_85_jahre_und_aelter,Walking (Fuss) × einwohner 85 jahre und aelter
 mode_C1:inkar_erreichbarkeit_von_ic_ec_ice_bahnhoefen,Inter,MiD × INKAR,mode_C1 × inkar_erreichbarkeit_von_ic_ec_ice_bahnhoefen,Walking (Fuss) × erreichbarkeit von ic ec ice bahnhoefen
+mode_C1:inkar_hochschulfoerderung_kurzfristig,Inter,MiD × INKAR,mode_C1 × inkar_hochschulfoerderung_kurzfristig,Walking (Fuss) × hochschulfoerderung kurzfristig
 mode_C1:inkar_kurzarbeiter,Inter,MiD × INKAR,mode_C1 × inkar_kurzarbeiter,Walking (Fuss) × kurzarbeiter
 mode_C1:inkar_ladepunkte_je_100_elektrofahrzeuge_bev,Inter,MiD × INKAR,mode_C1 × inkar_ladepunkte_je_100_elektrofahrzeuge_bev,Walking (Fuss) × ladepunkte je 100 elektrofahrzeuge bev
-mode_C1:inkar_leistungen_fuer_wohngeld,Inter,MiD × INKAR,mode_C1 × inkar_leistungen_fuer_wohngeld,Walking (Fuss) × leistungen fuer wohngeld
-mode_C1:inkar_neubauwohnungen_je_einwohner,Inter,MiD × INKAR,mode_C1 × inkar_neubauwohnungen_je_einwohner,Walking (Fuss) × neubauwohnungen je einwohner
 mode_C1:inkar_oberlandesgerichte,Inter,MiD × INKAR,mode_C1 × inkar_oberlandesgerichte,Walking (Fuss) × oberlandesgerichte
 mode_C1:inkar_pkw_gas,Inter,MiD × INKAR,mode_C1 × inkar_pkw_gas,Walking (Fuss) × pkw gas
 mode_C1:inkar_strassenverkehrsunfaelle,Inter,MiD × INKAR,mode_C1 × inkar_strassenverkehrsunfaelle,Walking (Fuss) × strassenverkehrsunfaelle
 mode_C1:inkar_weibliche_berufseinstiegswanderer,Inter,MiD × INKAR,mode_C1 × inkar_weibliche_berufseinstiegswanderer,Walking (Fuss) × weibliche berufseinstiegswanderer
+mode_C1:inkar_weibliche_schulabgaenger_mit_hauptschulabschluss,Inter,MiD × INKAR,mode_C1 × inkar_weibliche_schulabgaenger_mit_hauptschulabschluss,Walking (Fuss) × weibliche schulabgaenger mit hauptschulabschluss
 mode_C2:census_bodenflaeche_fliessgewaesser,Inter,MiD × Destatis,mode_C2 × census_bodenflaeche_fliessgewaesser,Cycling (Rad) × bodenflaeche fliessgewaesser
 mode_C2:census_bodenflaeche_wald,Inter,MiD × Destatis,mode_C2 × census_bodenflaeche_wald,Cycling (Rad) × bodenflaeche wald
 mode_C2:inkar_anteil_erwerbstaetige_verarbeitendes_gewerbe_an_industrie,Inter,MiD × INKAR,mode_C2 × inkar_anteil_erwerbstaetige_verarbeitendes_gewerbe_an_industrie,Cycling (Rad) × anteil erwerbstaetige verarbeitendes gewerbe an industrie
+mode_C2:inkar_anteil_minijobs_frauen,Inter,MiD × INKAR,mode_C2 × inkar_anteil_minijobs_frauen,Cycling (Rad) × anteil minijobs frauen
+mode_C2:inkar_bibliotheken,Inter,MiD × INKAR,mode_C2 × inkar_bibliotheken,Cycling (Rad) × bibliotheken
 mode_C2:inkar_einwohner_85_jahre_und_aelter,Inter,MiD × INKAR,mode_C2 × inkar_einwohner_85_jahre_und_aelter,Cycling (Rad) × einwohner 85 jahre und aelter
 mode_C2:inkar_einzelhandelsrelevante_kaufkraft,Inter,MiD × INKAR,mode_C2 × inkar_einzelhandelsrelevante_kaufkraft,Cycling (Rad) × einzelhandelsrelevante kaufkraft
 mode_C2:inkar_elterngeldbezieher_vaeter_im_ersten_lebensjahr,Inter,MiD × INKAR,mode_C2 × inkar_elterngeldbezieher_vaeter_im_ersten_lebensjahr,Cycling (Rad) × elterngeldbezieher vaeter im ersten lebensjahr
 mode_C2:inkar_erreichbarkeit_von_ic_ec_ice_bahnhoefen,Inter,MiD × INKAR,mode_C2 × inkar_erreichbarkeit_von_ic_ec_ice_bahnhoefen,Cycling (Rad) × erreichbarkeit von ic ec ice bahnhoefen
 mode_C2:inkar_erreichbarkeit_von_oberzentren,Inter,MiD × INKAR,mode_C2 × inkar_erreichbarkeit_von_oberzentren,Cycling (Rad) × erreichbarkeit von oberzentren
-mode_C2:inkar_flaechenneuinanspruchnahme,Inter,MiD × INKAR,mode_C2 × inkar_flaechenneuinanspruchnahme,Cycling (Rad) × flaechenneuinanspruchnahme
 mode_C2:inkar_kurzarbeiter,Inter,MiD × INKAR,mode_C2 × inkar_kurzarbeiter,Cycling (Rad) × kurzarbeiter
 mode_C2:inkar_pkw_gas,Inter,MiD × INKAR,mode_C2 × inkar_pkw_gas,Cycling (Rad) × pkw gas
 mode_C2:inkar_polizeidienststellen_teilweise_besetzt,Inter,MiD × INKAR,mode_C2 × inkar_polizeidienststellen_teilweise_besetzt,Cycling (Rad) × polizeidienststellen teilweise besetzt
 mode_C2:inkar_schlafgelegenheiten_in_beherbergungsbetrieben,Inter,MiD × INKAR,mode_C2 × inkar_schlafgelegenheiten_in_beherbergungsbetrieben,Cycling (Rad) × schlafgelegenheiten in beherbergungsbetrieben
-mode_C2:inkar_schluesselzuweisungen,Inter,MiD × INKAR,mode_C2 × inkar_schluesselzuweisungen,Cycling (Rad) × schluesselzuweisungen
+mode_C2:inkar_stimmenanteile_spd,Inter,MiD × INKAR,mode_C2 × inkar_stimmenanteile_spd,Cycling (Rad) × stimmenanteile spd
 mode_C2:inkar_strassenverkehrsunfaelle,Inter,MiD × INKAR,mode_C2 × inkar_strassenverkehrsunfaelle,Cycling (Rad) × strassenverkehrsunfaelle
+mode_C2:inkar_wasserflaeche,Inter,MiD × INKAR,mode_C2 × inkar_wasserflaeche,Cycling (Rad) × wasserflaeche
 mode_C2:inkar_weibliche_berufseinstiegswanderer,Inter,MiD × INKAR,mode_C2 × inkar_weibliche_berufseinstiegswanderer,Cycling (Rad) × weibliche berufseinstiegswanderer
 mode_C2:inkar_wohnflaeche,Inter,MiD × INKAR,mode_C2 × inkar_wohnflaeche,Cycling (Rad) × wohnflaeche
-mode_C3:census_altenquotient_maennlich.x,Inter,MiD × Destatis,mode_C3 × census_altenquotient_maennlich.x,Car (MIV) × altenquotient maennlich.x
-mode_C3:inkar_anteil_erwerbstaetige_finanz_und_unternehmensdienstleistungen,Inter,MiD × INKAR,mode_C3 × inkar_anteil_erwerbstaetige_finanz_und_unternehmensdienstleistungen,Car (MIV) × anteil erwerbstaetige finanz und unternehmensdienstleistungen
+mode_C3:census_wohnflaeche_in_wohngebaeuden_1_wohnung,Inter,MiD × Destatis,mode_C3 × census_wohnflaeche_in_wohngebaeuden_1_wohnung,Car (MIV) × wohnflaeche in wohngebaeuden 1 wohnung
 mode_C3:inkar_anteil_erwerbstaetige_verarbeitendes_gewerbe_an_industrie,Inter,MiD × INKAR,mode_C3 × inkar_anteil_erwerbstaetige_verarbeitendes_gewerbe_an_industrie,Car (MIV) × anteil erwerbstaetige verarbeitendes gewerbe an industrie
+mode_C3:inkar_beschaeftigte_in_kreativbranchen,Inter,MiD × INKAR,mode_C3 × inkar_beschaeftigte_in_kreativbranchen,Car (MIV) × beschaeftigte in kreativbranchen
 mode_C3:inkar_beschaeftigte_mit_anforderungsniveau_helfer,Inter,MiD × INKAR,mode_C3 × inkar_beschaeftigte_mit_anforderungsniveau_helfer,Car (MIV) × beschaeftigte mit anforderungsniveau helfer
-mode_C3:inkar_betreuungsquote_vorschulkinder,Inter,MiD × INKAR,mode_C3 × inkar_betreuungsquote_vorschulkinder,Car (MIV) × betreuungsquote vorschulkinder
+mode_C3:inkar_ehescheidungen,Inter,MiD × INKAR,mode_C3 × inkar_ehescheidungen,Car (MIV) × ehescheidungen
 mode_C3:inkar_einzelhandelsrelevante_kaufkraft,Inter,MiD × INKAR,mode_C3 × inkar_einzelhandelsrelevante_kaufkraft,Car (MIV) × einzelhandelsrelevante kaufkraft
 mode_C3:inkar_erreichbarkeit_von_ic_ec_ice_bahnhoefen,Inter,MiD × INKAR,mode_C3 × inkar_erreichbarkeit_von_ic_ec_ice_bahnhoefen,Car (MIV) × erreichbarkeit von ic ec ice bahnhoefen
 mode_C3:inkar_erreichbarkeit_von_oberzentren,Inter,MiD × INKAR,mode_C3 × inkar_erreichbarkeit_von_oberzentren,Car (MIV) × erreichbarkeit von oberzentren
+mode_C3:inkar_gender_index,Inter,MiD × INKAR,mode_C3 × inkar_gender_index,Car (MIV) × gender index
+mode_C3:inkar_hochschulfoerderung_kurzfristig,Inter,MiD × INKAR,mode_C3 × inkar_hochschulfoerderung_kurzfristig,Car (MIV) × hochschulfoerderung kurzfristig
 mode_C3:inkar_krankenhaeuser_der_erweiterten_notfallversorgung,Inter,MiD × INKAR,mode_C3 × inkar_krankenhaeuser_der_erweiterten_notfallversorgung,Car (MIV) × krankenhaeuser der erweiterten notfallversorgung
+mode_C3:inkar_kurzarbeiter,Inter,MiD × INKAR,mode_C3 × inkar_kurzarbeiter,Car (MIV) × kurzarbeiter
 mode_C3:inkar_ladepunkte_je_100_elektrofahrzeuge_bev,Inter,MiD × INKAR,mode_C3 × inkar_ladepunkte_je_100_elektrofahrzeuge_bev,Car (MIV) × ladepunkte je 100 elektrofahrzeuge bev
 mode_C3:inkar_landgerichte,Inter,MiD × INKAR,mode_C3 × inkar_landgerichte,Car (MIV) × landgerichte
 mode_C3:inkar_leistungen_fuer_wohngeld,Inter,MiD × INKAR,mode_C3 × inkar_leistungen_fuer_wohngeld,Car (MIV) × leistungen fuer wohngeld
-mode_C3:inkar_neubauwohnungen_je_einwohner,Inter,MiD × INKAR,mode_C3 × inkar_neubauwohnungen_je_einwohner,Car (MIV) × neubauwohnungen je einwohner
 mode_C3:inkar_oberlandesgerichte,Inter,MiD × INKAR,mode_C3 × inkar_oberlandesgerichte,Car (MIV) × oberlandesgerichte
+mode_C3:inkar_offene_stellen_mit_anforderungsniveau_helfer,Inter,MiD × INKAR,mode_C3 × inkar_offene_stellen_mit_anforderungsniveau_helfer,Car (MIV) × offene stellen mit anforderungsniveau helfer
 mode_C3:inkar_pkw_gas,Inter,MiD × INKAR,mode_C3 × inkar_pkw_gas,Car (MIV) × pkw gas
 mode_C3:inkar_pkw_hybrid_insgesamt,Inter,MiD × INKAR,mode_C3 × inkar_pkw_hybrid_insgesamt,Car (MIV) × pkw hybrid insgesamt
+mode_C3:inkar_sdg_11_pkw_dichte,Inter,MiD × INKAR,mode_C3 × inkar_sdg_11_pkw_dichte,Car (MIV) × sdg 11 pkw dichte
+mode_C3:inkar_sdg_5_frauenanteil_im_stadtrat_bzw_kreistag,Inter,MiD × INKAR,mode_C3 × inkar_sdg_5_frauenanteil_im_stadtrat_bzw_kreistag,Car (MIV) × sdg 5 frauenanteil im stadtrat bzw kreistag
+mode_C3:inkar_strassenverkehrsunfaelle,Inter,MiD × INKAR,mode_C3 × inkar_strassenverkehrsunfaelle,Car (MIV) × strassenverkehrsunfaelle
 mode_C3:inkar_teilzeitbeschaeftigte,Inter,MiD × INKAR,mode_C3 × inkar_teilzeitbeschaeftigte,Car (MIV) × teilzeitbeschaeftigte
 mode_C3:inkar_verbraucherinsolvenzverfahren,Inter,MiD × INKAR,mode_C3 × inkar_verbraucherinsolvenzverfahren,Car (MIV) × verbraucherinsolvenzverfahren
 mode_C3:inkar_weibliche_berufseinstiegswanderer,Inter,MiD × INKAR,mode_C3 × inkar_weibliche_berufseinstiegswanderer,Car (MIV) × weibliche berufseinstiegswanderer
