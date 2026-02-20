@@ -1,0 +1,10 @@
+name: sae-mobility-germany
+title:
+username: muehlbauer-m
+account: muehlbauer-m
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16723334
+bundleId: 11607436
+url: https://muehlbauer-m.shinyapps.io/sae-mobility-germany/
+version: 1

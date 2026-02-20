@@ -1,0 +1,20 @@
+# Data directories (input data not distributed)
+data/raw/
+data/temp/
+data/output/
+data/data_cleaning/
+
+# R artifacts
+*.Rout
+.Rproj.user
+.Rhistory
+.RData
+*.Rproj
+
+# Keep ShinyApp pre-computed data
+!ShinyApp/mid_shiny_data.RData
+!ShinyApp/data/
+
+# OS files
+.DS_Store
+Thumbs.db

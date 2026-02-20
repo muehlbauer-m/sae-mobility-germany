@@ -1,0 +1,39 @@
+table_code,category,description_de,description_en
+12411-01-01-4,Population & Households,"Bevölkerung: Deutschland, Stichtag, Geschlecht, Kreise","Population by sex, reference date, districts"
+12411-09-01-4,Population & Households,"Bevölkerung: Deutschland, Stichtag, Geschlecht, Altersgruppen","Population by sex and age groups, reference date, districts"
+12211-Z-10,Population & Households,Haushalte nach Haushaltsgröße,Households by household size
+73111-01-01-4,Income & Economic Activity,"Lohn- und Einkommensteuerpflichtige, Gesamtbetrag der Einkünfte, Lohn- und Einkommensteuer","Income tax payers, total income, income tax"
+82000-07-01-4,Income & Economic Activity,Verfügbares Einkommen der privaten Haushalte,Disposable income of private households
+71231-01-03-4,Income & Economic Activity,Realsteuervergleich: Hebesätze der Realsteuern,Municipal tax rates comparison
+46251-0020,Mobility & Transport,"Fahrzeugbestand: Kreise, Quartale, Fahrzeugklassen","Vehicle registrations by districts, quarters, vehicle classes"
+13111-01-03-4,Mobility & Transport,"Erwerbstätige am Arbeitsort: Geschlecht, Nationalität, Kreise","Employed persons at workplace by sex, nationality, districts"
+13111-02-02-4,Mobility & Transport,"Erwerbstätige am Wohnort: Geschlecht, Nationalität, Kreise","Employed persons at residence by sex, nationality, districts"
+13111-07-05-4,Mobility & Transport,"Sozialversicherungspflichtig Beschäftigte am Arbeitsort nach Geschlecht, Nationalität, WZ","Employees at workplace by sex, nationality, economic sector"
+13111-11-04-4,Mobility & Transport,"Sozialversicherungspflichtig Beschäftigte am Arbeitsort nach Geschlecht, Nationalität, Ausbildung","Employees at workplace by sex, nationality, education level"
+13111-04-02-4,Mobility & Transport,"Sozialversicherungspflichtig Beschäftigte am Wohnort nach Geschlecht, Nationalität, Beschäftigungsumfang","Employees at residence by sex, nationality, full-time/part-time"
+13111-06-02-4,Mobility & Transport,"Sozialversicherungspflichtig Beschäftigte am Wohnort nach Geschlecht, Nationalität, Altersgruppen","Employees at residence by sex, nationality, age groups"
+13111-12-03-4,Mobility & Transport,"Sozialversicherungspflichtig Beschäftigte am Wohnort nach Geschlecht, Nationalität, Ausbildung","Employees at residence by sex, nationality, education level"
+12711-04-02-4,Mobility & Transport,Zu- und Fortzüge über Kreisgrenzen,In-migration and out-migration across district boundaries
+45412-03-01-4,Tourism,"Gästeübernachtungen, Gästeankünfte nach Herkunft -- Jahressumme bis 2017","Guest overnight stays and arrivals by origin, annual total until 2017"
+45412-01-03-4,Tourism,"Beherbergungsbetriebe, Schlafgelegenheiten, Gästeankünfte, Gästeübernachtungen ab 2018","Accommodation establishments, beds, guest arrivals, overnight stays from 2018"
+45412-02-02-4,Tourism,Beherbergungsbetriebe nach Betriebsarten ab 2018,Accommodation establishments by type from 2018
+45412-03-02-4,Tourism,Gästeankünfte und Gästeübernachtungen nach Herkunftsgebieten ab 2018,Guest arrivals and overnight stays by region of origin from 2018
+12411-07-01-4,Demographics,"Durchschnittsalter der Bevölkerung: Kreise, Stichtag","Mean age of population, districts, reference date"
+12411-08-01-4,Demographics,"Jugend- und Altenquotient: Kreise, Stichtag","Youth and old-age dependency ratios, districts, reference date"
+12411-10-01-4,Demographics,Medianalter der Bevölkerung nach Geschlecht: Kreise,"Median age of population by sex, districts"
+12411-11-01-4,Demographics,"Bevölkerung: Nationalität Deutsche/Ausländer, Geschlecht","Population by nationality (German/foreign), sex"
+12711-01-03-4,Demographics,Zu- und Fortzüge über Gemeindegrenzen,In-migration and out-migration across municipality boundaries
+12612-01-01-4,Demographics,Lebendgeborene nach Geschlecht: Kreise,"Live births by sex, districts"
+12613-01-01-4,Demographics,Gestorbene nach Geschlecht: Kreise,"Deaths by sex, districts"
+13111-03-02-4,Employment & Economy,"Erwerbstätige: Geschlecht, Stellung im Beruf, Kreise","Employed persons by sex, occupational status, districts"
+13111-05-03-4,Employment & Economy,"Erwerbstätige: Geschlecht, Altersgruppen, Kreise","Employed persons by sex, age groups, districts"
+13211-02-05-4,Employment & Economy,Arbeitslose und Arbeitslosenquote: Kreise,"Unemployed persons and unemployment rate, districts"
+13312-01-05-4,Employment & Economy,"Erwerbstätige: Wirtschaftsbereiche, Kreise","Employed persons by economic sector, districts"
+11111-01-01-4,Infrastructure & Built Environment,"Fläche insgesamt: Kreise, Stichtag","Total area, districts, reference date"
+31111-01-02-4,Infrastructure & Built Environment,"Baugenehmigungen: Wohngebäude, Kreise","Building permits for residential buildings, districts"
+31121-01-02-4,Infrastructure & Built Environment,"Baufertigstellungen: Wohngebäude, Kreise","Building completions for residential buildings, districts"
+31231-02-01-4,Infrastructure & Built Environment,Wohngebäude- und Wohnungsbestand: Kreise,"Residential building and dwelling stock, districts"
+33111-01-02-4,Infrastructure & Built Environment,Bodenfläche nach Art der tatsächlichen Nutzung: Kreise,"Land area by type of actual use, districts"
+33111-02-01-4,Infrastructure & Built Environment,Siedlungs- und Verkehrsfläche nach Nutzungsarten: Kreise,"Settlement and transport area by type of use, districts"
+21111-01-03-4,Education & Social Services,"Allgemeinbildende Schulen: Schulen, Schüler/-innen, Kreise","General education schools: schools, students, districts"
+22541-01-04-4,Education & Social Services,"Tageseinrichtungen für Kinder: Einrichtungen, Plätze, Kreise","Childcare facilities: establishments, places, districts"

@@ -1,0 +1,541 @@
+row_num,german_name,english_name,theme_name,theme_sub,year_used
+1,Arbeitslose,Unemployed persons,Absolutzahlen,Absolutzahlen,2017
+2,Bevölkerung (mit BBSR-Zensuskorrekturen),Population (with BBSR census corrections),Absolutzahlen,Absolutzahlen,2017
+3,Bevölkerung gesamt,Total population,Absolutzahlen,Absolutzahlen,2017
+4,Bevölkerung männlich,Male population,Absolutzahlen,Absolutzahlen,2017
+5,Bevölkerung weiblich,Female population,Absolutzahlen,Absolutzahlen,2017
+6,Bodenfläche gesamt qkm,Total land area (sq km),Absolutzahlen,Absolutzahlen,2017
+7,Bruttoinlandsprodukt in 1000 Euro,"Gross domestic product (EUR 1,000)",Absolutzahlen,Absolutzahlen,2017
+8,Erwerbsfähige Bevölkerung (15 bis unter 65 Jahre),Working-age population (15 to under 65 years),Absolutzahlen,Absolutzahlen,2017
+9,Erwerbstätige,Employed persons,Absolutzahlen,Absolutzahlen,2017
+10,Arbeitslose Frauen,Unemployed women,Arbeitslosigkeit,Allgemein,2017
+11,Arbeitslose Männer,Unemployed men,Arbeitslosigkeit,Allgemein,2017
+12,Arbeitslosenquote,Unemployment rate,Arbeitslosigkeit,Allgemein,2017
+13,Arbeitslosenquote Frauen,Female unemployment rate,Arbeitslosigkeit,Allgemein,2017
+14,Arbeitslosenquote Männer,Male unemployment rate,Arbeitslosigkeit,Allgemein,2017
+15,Anteil jüngere Arbeitslose,Share of younger unemployed,Arbeitslosigkeit,Altersgruppen,2017
+16,Anteil männliche jüngere Arbeitslose,Share of younger unemployed men,Arbeitslosigkeit,Altersgruppen,2017
+17,Anteil männliche ältere Arbeitslose,Share of older unemployed men,Arbeitslosigkeit,Altersgruppen,2017
+18,Anteil weibliche jüngere Arbeitslose,Share of younger unemployed women,Arbeitslosigkeit,Altersgruppen,2017
+19,Anteil weibliche ältere Arbeitslose,Share of older unemployed women,Arbeitslosigkeit,Altersgruppen,2017
+20,Anteil ältere Arbeitslose,Share of older unemployed,Arbeitslosigkeit,Altersgruppen,2017
+21,Arbeitslosenquote Jüngere,Youth unemployment rate,Arbeitslosigkeit,Altersgruppen,2017
+22,Arbeitslosenquote Ältere,Older workers unemployment rate,Arbeitslosigkeit,Altersgruppen,2017
+23,Jüngere Arbeitslose,Younger unemployed,Arbeitslosigkeit,Altersgruppen,2017
+24,Männliche jüngere Arbeitslose,Younger unemployed men,Arbeitslosigkeit,Altersgruppen,2017
+25,Männliche ältere Arbeitslose,Older unemployed men,Arbeitslosigkeit,Altersgruppen,2017
+26,Weibliche jüngere Arbeitslose,Younger unemployed women,Arbeitslosigkeit,Altersgruppen,2017
+27,Weibliche ältere Arbeitslose,Older unemployed women,Arbeitslosigkeit,Altersgruppen,2017
+28,Ältere Arbeitslose,Older unemployed,Arbeitslosigkeit,Altersgruppen,2017
+29,Arbeitslose mit Anforderungsniveau Experte,Unemployed with expert skill level,Arbeitslosigkeit,Struktur,2017
+30,Arbeitslose mit Anforderungsniveau Fachkraft,Unemployed with skilled worker level,Arbeitslosigkeit,Struktur,2017
+31,Arbeitslose mit Anforderungsniveau Helfer,Unemployed with helper skill level,Arbeitslosigkeit,Struktur,2017
+32,Arbeitslose mit Anforderungsniveau Spezialist,Unemployed with specialist skill level,Arbeitslosigkeit,Struktur,2017
+33,Arbeitslose ohne Ausbildung,Unemployed without vocational training,Arbeitslosigkeit,Struktur,2017
+34,Ausländische Arbeitslose,Foreign unemployed,Arbeitslosigkeit,Struktur,2017
+35,Ausländische männliche Arbeitslose,Foreign unemployed men,Arbeitslosigkeit,Struktur,2017
+36,Ausländische weibliche Arbeitslose,Foreign unemployed women,Arbeitslosigkeit,Struktur,2017
+37,Langzeitarbeitslose,Long-term unemployed,Arbeitslosigkeit,Struktur,2017
+38,Männliche Langzeitarbeitslose,Male long-term unemployed,Arbeitslosigkeit,Struktur,2017
+39,Offene Stellen mit Anforderungsniveau Experte,Job vacancies requiring expert skill level,Arbeitslosigkeit,Struktur,2017
+40,Offene Stellen mit Anforderungsniveau Fachkraft,Job vacancies requiring skilled worker level,Arbeitslosigkeit,Struktur,2017
+41,Offene Stellen mit Anforderungsniveau Helfer,Job vacancies requiring helper skill level,Arbeitslosigkeit,Struktur,2017
+42,Offene Stellen mit Anforderungsniveau Spezialist,Job vacancies requiring specialist skill level,Arbeitslosigkeit,Struktur,2017
+43,Weibliche Langzeitarbeitslose,Female long-term unemployed,Arbeitslosigkeit,Struktur,2017
+44,Angebotsmietpreise,Asking rental prices,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+45,Baugenehmigungen für Wohnungen in Ein- und Zweifamilienhäusern,Building permits for dwellings in single/two-family houses,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+46,Baugenehmigungen für Wohnungen in Mehrfamilienhäusern,Building permits for dwellings in multi-family houses,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+47,Baugenehmigungen für Wohnungenje Einwohner,Building permits for dwellings per inhabitant,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+48,Baulandpreise,Building land prices,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+49,Bauüberhänge,Construction backlogs,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2018
+50,Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,Completed residential buildings with renewable heating,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+51,Fertiggestellte Wohnungen je Wohnung im Bestand,Completed dwellings per existing dwelling,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+52,Fertiggestellte Wohnungen mit erneuerbarer Heizenergie,Completed dwellings with renewable heating,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+53,Neubauwohnungen in Ein- und Zweifamilienhäusern,New dwellings in single/two-family houses,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+54,Neubauwohnungen in Ein- und Zweifamilienhäusern je Einwohner,New dwellings in single/two-family houses per inhabitant,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+55,Neubauwohnungen in Mehrfamilienhäusern je Einwohner,New dwellings in multi-family houses per inhabitant,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+56,Neubauwohnungen je Einwohner,New dwellings per inhabitant,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+57,Neue Ein- und Zweifamilienhäuser,New single/two-family houses,Bauen und Wohnen,Baulandmarkt und Bautätigkeit,2017
+58,5- und mehr Raum-Wohnungen,Dwellings with 5+ rooms,Bauen und Wohnen,Gebäude- und Wohnungsbestand,2017
+59,Ein- und Zweifamilienhäuser,Single/two-family houses,Bauen und Wohnen,Gebäude- und Wohnungsbestand,2017
+60,Ein- und Zweiraumwohnungen,One- and two-room dwellings,Bauen und Wohnen,Gebäude- und Wohnungsbestand,2017
+61,Mehrfamilienhäuser,Multi-family houses,Bauen und Wohnen,Gebäude- und Wohnungsbestand,2017
+62,Wohnfläche,Living space,Bauen und Wohnen,Gebäude- und Wohnungsbestand,2017
+63,Wohnungen in Ein- und Zweifamilienhäusern,Dwellings in single/two-family houses,Bauen und Wohnen,Gebäude- und Wohnungsbestand,2017
+64,Wohnungen in Mehrfamilienhäusern,Dwellings in multi-family houses,Bauen und Wohnen,Gebäude- und Wohnungsbestand,2017
+65,Anteil Minijobs (Frauen),Share of mini-jobs (women),Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+66,Anteil Minijobs (Männer),Share of mini-jobs (men),Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+67,Anteil Minijobs (Nebenverdienst),Share of mini-jobs (secondary income),Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+68,Anteil Minijobs (Nebenverdienst) an den Beschäftigungsverhältnissen,Share of secondary mini-jobs in employment relationships,Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+69,Anteil Minijobs (ausschließlich) an den Beschäftigungsverhältnissen,Share of exclusive mini-jobs in employment relationships,Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+70,Anteil Minijobs (ausschließlich) an geringfügig Beschäftigten,Share of exclusive mini-jobs among marginally employed,Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+71,Anteil Minijobs an den Beschäftigungsverhältnissen,Share of mini-jobs in employment relationships,Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+72,Aufstocker,Income top-up recipients,Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+73,Geringfügig Beschäftigte 65 Jahre und älter,Marginally employed aged 65+,Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+74,Geringfügig Beschäftigte 65 Jahre und älter männlich,Male marginally employed aged 65+,Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+75,Geringfügig Beschäftigte 65 Jahre und älter weiblich,Female marginally employed aged 65+,Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+76,Kurzarbeiter,Short-time workers,Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+77,Unterbeschäftigungsquote,Underemployment rate,Beschäftigung und Erwerbstätigkeit,Atypische Beschäftigung,2017
+78,Beschäftigte am AO mit Berufsabschluss,Employees at workplace with vocational qualification,Beschäftigung und Erwerbstätigkeit,Qualifikation,2017
+79,Beschäftigte am AO mit akademischem Berufsabschluss,Employees at workplace with academic degree,Beschäftigung und Erwerbstätigkeit,Qualifikation,2017
+80,Beschäftigte am AO ohne Berufsabschluss,Employees at workplace without vocational qualification,Beschäftigung und Erwerbstätigkeit,Qualifikation,2017
+81,Beschäftigte am WO mit Berufsabschluss,Employees at residence with vocational qualification,Beschäftigung und Erwerbstätigkeit,Qualifikation,2017
+82,Beschäftigte am WO mit akademischen Abschluss,Employees at residence with academic degree,Beschäftigung und Erwerbstätigkeit,Qualifikation,2017
+83,Beschäftigte am WO ohne Berufsabschluss,Employees at residence without vocational qualification,Beschäftigung und Erwerbstätigkeit,Qualifikation,2017
+84,Beschäftigte mit Anforderungsniveau Experte,Employees with expert skill level,Beschäftigung und Erwerbstätigkeit,Qualifikation,2017
+85,Beschäftigte mit Anforderungsniveau Fachkraft,Employees with skilled worker level,Beschäftigung und Erwerbstätigkeit,Qualifikation,2017
+86,Beschäftigte mit Anforderungsniveau Helfer,Employees with helper skill level,Beschäftigung und Erwerbstätigkeit,Qualifikation,2017
+87,Beschäftigte mit Anforderungsniveau Spezialist,Employees with specialist skill level,Beschäftigung und Erwerbstätigkeit,Qualifikation,2017
+88,Beschäftigtenquote,Employment rate,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+89,Beschäftigtenquote Ausländer,Foreign employment rate,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+90,Beschäftigtenquote Frauen,Female employment rate,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+91,Beschäftigtenquote Männer,Male employment rate,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+92,Erwerbsquote,Labor force participation rate,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+93,Erwerbsquote Frauen,Female labor force participation rate,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+94,Erwerbsquote Männer,Male labor force participation rate,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+95,Quote jüngere Beschäftigte,Younger workers employment rate,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+96,Quote ältere Beschäftigte,Older workers employment rate,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+97,Selbstständigenquote,Self-employment rate,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+98,Teilzeitbeschäftige Frauen,Part-time employed women,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+99,Teilzeitbeschäftigte,Part-time employees,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+100,Verhältnis junge zu alte Erwerbsfähige,Ratio of young to old working-age population,Beschäftigung und Erwerbstätigkeit,Struktur,2017
+101,Anteil Erwerbstätige Finanz- und Unternehmensdienstleistungen,Share employed in finance and business services,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+102,Anteil Erwerbstätige Verarbeitendes Gewerbe an Industrie,Share employed in manufacturing vs. industry,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+103,Beschäftigte Pimärer Sektor,Employees in primary sector,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+104,Beschäftigte Sekundärer Sektor,Employees in secondary sector,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+105,Beschäftigte Tertiärer Sektor,Employees in tertiary sector,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+106,Beschäftigte im Baugewerbe,Employees in construction,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+107,Beschäftigte im Handwerk,Employees in skilled trades,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+108,Beschäftigte in IT- und naturwissenschaftlichen Dienstleistungsberufen,Employees in IT and natural science services,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+109,Beschäftigte in Kreativbranchen,Employees in creative industries,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+110,Beschäftigte in unternehmensbezogenen Dienstleistungen,Employees in business-related services,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+111,Beschäftigte in wissensintensiven Industrien,Employees in knowledge-intensive industries,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+112,Dienstleistungsquote,Service sector share,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+113,Erwerbstätige Primärer Sektor,Employed in primary sector,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+114,Erwerbstätige Sekundärer Sektor,Employed in secondary sector,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+115,Erwerbstätige Tertiärer Sektor,Employed in tertiary sector,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+116,Industriequote,Industry share,Beschäftigung und Erwerbstätigkeit,Wirtschafts- und Berufszweige,2017
+117,Durchschnittsalter der Bevölkerung,Average age of population,Bevölkerung,Altersstruktur,2017
+118,Einwohner 65 Jahre und älter,Inhabitants aged 65+,Bevölkerung,Altersstruktur,2017
+119,"Einwohner 65 Jahre und älter, Frauen",Female inhabitants aged 65+,Bevölkerung,Altersstruktur,2017
+120,Einwohner 75 Jahre und älter,Inhabitants aged 75+,Bevölkerung,Altersstruktur,2017
+121,"Einwohner 75 Jahre und älter, Frauen",Female inhabitants aged 75+,Bevölkerung,Altersstruktur,2017
+122,Einwohner 85 Jahre und älter,Inhabitants aged 85+,Bevölkerung,Altersstruktur,2017
+123,"Einwohner 85 Jahre und älter, Frauen",Female inhabitants aged 85+,Bevölkerung,Altersstruktur,2017
+124,Einwohner unter 3 Jahren,Inhabitants under 3 years,Bevölkerung,Altersstruktur,2017
+125,Einwohner unter 6 Jahre,Inhabitants under 6 years,Bevölkerung,Altersstruktur,2017
+126,Einwohner von 18 bis unter 25 Jahren,Inhabitants aged 18 to under 25,Bevölkerung,Altersstruktur,2017
+127,"Einwohner von 18 bis unter 25 Jahren, Frauen",Female inhabitants aged 18 to under 25,Bevölkerung,Altersstruktur,2017
+128,Einwohner von 25 bis unter 30 Jahren,Inhabitants aged 25 to under 30,Bevölkerung,Altersstruktur,2017
+129,"Einwohner von 25 bis unter 30 Jahren, Frauen",Female inhabitants aged 25 to under 30,Bevölkerung,Altersstruktur,2017
+130,Einwohner von 3 bis unter 6 Jahren,Inhabitants aged 3 to under 6,Bevölkerung,Altersstruktur,2017
+131,Einwohner von 30 bis unter 50 Jahren,Inhabitants aged 30 to under 50,Bevölkerung,Altersstruktur,2017
+132,Einwohner von 50 bis unter 65 Jahren,Inhabitants aged 50 to under 65,Bevölkerung,Altersstruktur,2017
+133,Einwohner von 6 bis unter 18 Jahren,Inhabitants aged 6 to under 18,Bevölkerung,Altersstruktur,2017
+134,Einwohner von 65 bis unter 75 Jahren,Inhabitants aged 65 to under 75,Bevölkerung,Altersstruktur,2017
+135,"Einwohner von 65 bis unter 75 Jahren, Frauen",Female inhabitants aged 65 to under 75,Bevölkerung,Altersstruktur,2017
+136,Einwohner von 75 bis unter 85 Jahren,Inhabitants aged 75 to under 85,Bevölkerung,Altersstruktur,2017
+137,"Einwohner von 75 bis unter 85 Jahren, Frauen",Female inhabitants aged 75 to under 85,Bevölkerung,Altersstruktur,2017
+138,Abhängigenquote Alte,Old-age dependency ratio,Bevölkerung,Bevölkerungsstruktur,2017
+139,Abhängigenquote Junge,Youth dependency ratio,Bevölkerung,Bevölkerungsstruktur,2017
+140,Ausländeranteil,Share of foreigners,Bevölkerung,Bevölkerungsstruktur,2017
+141,Ausländerinnen,Foreign women,Bevölkerung,Bevölkerungsstruktur,2017
+142,Bevölkerungsentwicklung (10 Jahre),Population change (10 years),Bevölkerung,Bevölkerungsstruktur,2017
+143,Bevölkerungsentwicklung (5 Jahre),Population change (5 years),Bevölkerung,Bevölkerungsstruktur,2017
+144,Ehescheidungen,Divorces,Bevölkerung,Bevölkerungsstruktur,2017
+145,Eheschließungen,Marriages,Bevölkerung,Bevölkerungsstruktur,2017
+146,Einbürgerungen je Ausländer,Naturalizations per foreigner,Bevölkerung,Bevölkerungsstruktur,2017
+147,Einbürgerungen je Einwohner,Naturalizations per inhabitant,Bevölkerung,Bevölkerungsstruktur,2017
+148,Einpersonenhaushalte,Single-person households,Bevölkerung,Bevölkerungsstruktur,2017
+149,Frauenanteil,Share of women,Bevölkerung,Bevölkerungsstruktur,2017
+150,Frauenanteil 20 bis unter 40 Jahre,Share of women aged 20 to under 40,Bevölkerung,Bevölkerungsstruktur,2017
+151,Gender-Index,Gender index,Bevölkerung,Bevölkerungsstruktur,2017
+152,Haushalte mit Kindern,Households with children,Bevölkerung,Bevölkerungsstruktur,2017
+153,Haushaltsgröße,Household size,Bevölkerung,Bevölkerungsstruktur,2017
+154,Prognostizierte Bevölkerungsentwicklung (2022-2030),Projected population change (2022-2030),Bevölkerung,Bevölkerungsstruktur,2024
+155,Prognostizierte Bevölkerungsentwicklung (2022-2035),Projected population change (2022-2035),Bevölkerung,Bevölkerungsstruktur,2024
+156,Prognostizierte Bevölkerungsentwicklung (2022-2040),Projected population change (2022-2040),Bevölkerung,Bevölkerungsstruktur,2024
+157,Prognostizierte Bevölkerungsentwicklung (2022-2045),Projected population change (2022-2045),Bevölkerung,Bevölkerungsstruktur,2024
+158,Schutzsuchende an Bevölkerung,Refugees as share of population,Bevölkerung,Bevölkerungsstruktur,2017
+159,Schutzsuchende an ausländischer Bevölkerung,Refugees as share of foreign population,Bevölkerung,Bevölkerungsstruktur,2017
+160,Stimmenanteile AfD,Vote share AfD,Bevölkerung,Bundestagswahlen,2017
+161,Stimmenanteile CDU/CSU,Vote share CDU/CSU,Bevölkerung,Bundestagswahlen,2017
+162,Stimmenanteile Die Linke,Vote share Die Linke,Bevölkerung,Bundestagswahlen,2017
+163,Stimmenanteile FDP,Vote share FDP,Bevölkerung,Bundestagswahlen,2017
+164,Stimmenanteile Grüne,Vote share Greens,Bevölkerung,Bundestagswahlen,2017
+165,Stimmenanteile SPD,Vote share SPD,Bevölkerung,Bundestagswahlen,2017
+166,Stimmenanteile Sonstige Parteien,Vote share other parties,Bevölkerung,Bundestagswahlen,2017
+167,Wahlbeteiligung,Voter turnout,Bevölkerung,Bundestagswahlen,2017
+168,Fertilitätsrate,Fertility rate,Bevölkerung,Natürliche Bevölkerungsbewegungen,2017
+169,Geborene,Births,Bevölkerung,Natürliche Bevölkerungsbewegungen,2017
+170,Geburten junger Mütter (<20 Jahre),Births to young mothers (<20 years),Bevölkerung,Natürliche Bevölkerungsbewegungen,2017
+171,Geburten älterer Mütter (>=40 Jahre),Births to older mothers (>=40 years),Bevölkerung,Natürliche Bevölkerungsbewegungen,2017
+172,Gestorbene,Deaths,Bevölkerung,Natürliche Bevölkerungsbewegungen,2017
+173,Natürlicher Saldo,Natural population balance,Bevölkerung,Natürliche Bevölkerungsbewegungen,2017
+174,Säuglingssterblichkeit (<1 Jahr),Infant mortality (<1 year),Bevölkerung,Natürliche Bevölkerungsbewegungen,2017
+175,Straftaten,Criminal offenses,Bevölkerung,Sicherheit,2017
+176,Wohnungseinbruchdiebstahl,Residential burglary,Bevölkerung,Sicherheit,2017
+177,Außenwanderungssaldo,Net external migration,Bevölkerung,Wanderungen,2017
+178,Außenwanderungssaldo Frauen,Net external migration (women),Bevölkerung,Wanderungen,2017
+179,Außenwanderungssaldo Männer,Net external migration (men),Bevölkerung,Wanderungen,2017
+180,Berufseinstiegswanderer,Career entry migrants,Bevölkerung,Wanderungen,2017
+181,Bildungswanderer,Education migrants,Bevölkerung,Wanderungen,2017
+182,Binnenwanderungssaldo,Net internal migration,Bevölkerung,Wanderungen,2017
+183,Binnenwanderungssaldo Frauen,Net internal migration (women),Bevölkerung,Wanderungen,2017
+184,Binnenwanderungssaldo Männer,Net internal migration (men),Bevölkerung,Wanderungen,2017
+185,Binnenwanderungsvolumen,Internal migration volume,Bevölkerung,Wanderungen,2017
+186,Binnenwanderungsvolumen der Frauen,Internal migration volume (women),Bevölkerung,Wanderungen,2017
+187,Binnenwanderungsvolumen der Männer,Internal migration volume (men),Bevölkerung,Wanderungen,2017
+188,Erwerbswanderer,Employment migrants,Bevölkerung,Wanderungen,2017
+189,Familienwanderer,Family migrants,Bevölkerung,Wanderungen,2017
+190,Fortzugsrate,Out-migration rate,Bevölkerung,Wanderungen,2017
+191,Fortzugsrate Frauen,Female out-migration rate,Bevölkerung,Wanderungen,2017
+192,Fortzugsrate Männer,Male out-migration rate,Bevölkerung,Wanderungen,2017
+193,Gesamtwanderungssaldo,Total net migration,Bevölkerung,Wanderungen,2017
+194,Männliche Berufseinstiegswanderer,Male career entry migrants,Bevölkerung,Wanderungen,2017
+195,Männliche Bildungswanderer,Male education migrants,Bevölkerung,Wanderungen,2017
+196,Ruhestandswanderer,Retirement migrants,Bevölkerung,Wanderungen,2017
+197,Weibliche Berufseinstiegswanderer,Female career entry migrants,Bevölkerung,Wanderungen,2017
+198,Weibliche Bildungswanderer,Female education migrants,Bevölkerung,Wanderungen,2017
+199,Zuzugsrate,In-migration rate,Bevölkerung,Wanderungen,2017
+200,Zuzugsrate Frauen,Female in-migration rate,Bevölkerung,Wanderungen,2017
+201,Zuzugsrate Männer,Male in-migration rate,Bevölkerung,Wanderungen,2017
+202,Ausbildungsplätze,Vocational training positions,Bildung,Ausbildungsangebot,2017
+203,Ausländische Berufsschüler,Foreign vocational school students,Bildung,Ausbildungsangebot,2017
+204,Ausländische Studierende,Foreign university students,Bildung,Ausbildungsangebot,2017
+205,Auszubildende,Trainees,Bildung,Ausbildungsangebot,2017
+206,Auszubildende je 100 Einwohner 15 bis 25 Jahre,Trainees per 100 inhabitants aged 15-25,Bildung,Ausbildungsangebot,2017
+207,Berufsschüler,Vocational school students,Bildung,Ausbildungsangebot,2017
+208,Berufsschülerinnen,Female vocational school students,Bildung,Ausbildungsangebot,2017
+209,Männliche Auszubildende,Male trainees,Bildung,Ausbildungsangebot,2017
+210,Männliche Studierende,Male university students,Bildung,Ausbildungsangebot,2017
+211,Studierende,University students,Bildung,Ausbildungsangebot,2017
+212,Studierende an FH,Students at universities of applied sciences,Bildung,Ausbildungsangebot,2017
+213,Studierende im 1. Semester,First-semester students,Bildung,Ausbildungsangebot,2017
+214,Studierende je 100 Einwohner 18 bis 25 Jahre,Students per 100 inhabitants aged 18-25,Bildung,Ausbildungsangebot,2017
+215,Weibliche Auszubildende,Female trainees,Bildung,Ausbildungsangebot,2017
+216,Weibliche Studierende,Female university students,Bildung,Ausbildungsangebot,2017
+217,Ausländische Schüler,Foreign school students,Bildung,Schulische Bildung,2017
+218,Ausländische Schüler je 100 Ausländer 6 bis 18 Jahre,Foreign students per 100 foreigners aged 6-18,Bildung,Schulische Bildung,2017
+219,Männliche Schulabgänger mit Hauptschulabschluss,Male school leavers with lower secondary certificate,Bildung,Schulische Bildung,2017
+220,Männliche Schulabgänger mit allgemeiner Hochschulreife,Male school leavers with university entrance qualification,Bildung,Schulische Bildung,2017
+221,Männliche Schulabgänger mit mittlerem Abschluss,Male school leavers with intermediate certificate,Bildung,Schulische Bildung,2017
+222,Männliche Schulabgänger ohne Abschluss,Male school leavers without qualification,Bildung,Schulische Bildung,2017
+223,Schulabgänger mit Hauptschulabschluss,School leavers with lower secondary certificate,Bildung,Schulische Bildung,2017
+224,Schulabgänger mit allgemeiner Hochschulreife,School leavers with university entrance qualification,Bildung,Schulische Bildung,2017
+225,Schulabgänger mit mittlerem Abschluss,School leavers with intermediate certificate,Bildung,Schulische Bildung,2017
+226,Schulabgänger ohne Abschluss,School leavers without qualification,Bildung,Schulische Bildung,2017
+227,Schüler,School students,Bildung,Schulische Bildung,2017
+228,Weibliche Schulabgänger mit Hauptschulabschluss,Female school leavers with lower secondary certificate,Bildung,Schulische Bildung,2017
+229,Weibliche Schulabgänger mit allgemeiner Hochschulreife,Female school leavers with university entrance qualification,Bildung,Schulische Bildung,2017
+230,Weibliche Schulabgänger mit mittlerem Abschluss,Female school leavers with intermediate certificate,Bildung,Schulische Bildung,2017
+231,Weibliche Schulabgänger ohne Abschluss,Female school leavers without qualification,Bildung,Schulische Bildung,2017
+232,Erholungsfläche,Recreation area,Flächennutzung und Umwelt,Flächennutzung,2017
+233,Erholungsfläche je Einwohner,Recreation area per inhabitant,Flächennutzung und Umwelt,Flächennutzung,2017
+234,Flächenneuinanspruchnahme,New land take,Flächennutzung und Umwelt,Flächennutzung,2017
+235,Freifläche,Open space,Flächennutzung und Umwelt,Flächennutzung,2017
+236,Freifläche je Einwohner,Open space per inhabitant,Flächennutzung und Umwelt,Flächennutzung,2017
+237,Landwirtschaftsfläche,Agricultural area,Flächennutzung und Umwelt,Flächennutzung,2017
+238,Naturnähere Fläche,Near-natural area,Flächennutzung und Umwelt,Flächennutzung,2017
+239,Naturnähere Fläche je Einwohner,Near-natural area per inhabitant,Flächennutzung und Umwelt,Flächennutzung,2017
+240,Siedlungs- und Verkehrsfläche,Settlement and transport area,Flächennutzung und Umwelt,Flächennutzung,2017
+241,Siedlungsdichte in km²,Settlement density per sq km,Flächennutzung und Umwelt,Flächennutzung,2017
+242,Waldfläche,Forest area,Flächennutzung und Umwelt,Flächennutzung,2017
+243,Wasserfläche,Water area,Flächennutzung und Umwelt,Flächennutzung,2017
+244,Abfallmenge,Waste volume,Flächennutzung und Umwelt,Umwelt,2017
+245,Haus- und Sperrmüll,Household and bulky waste,Flächennutzung und Umwelt,Umwelt,2017
+246,Haushaltsabfälle,Household waste,Flächennutzung und Umwelt,Umwelt,2017
+247,Organischer Abfall,Organic waste,Flächennutzung und Umwelt,Umwelt,2017
+248,Stickstoffüberschuss,Nitrogen surplus,Flächennutzung und Umwelt,Umwelt,2017
+249,Trinkwasserverbrauch,Drinking water consumption,Flächennutzung und Umwelt,Umwelt,2016
+250,Wertstoffe,Recyclable materials,Flächennutzung und Umwelt,Umwelt,2017
+251,Allgemeinärzte,General practitioners,Medizinische und soziale Versorgung,Medizinische Versorgung,2017
+252,Hausärzte,Family doctors,Medizinische und soziale Versorgung,Medizinische Versorgung,2017
+253,Internisten,Internists,Medizinische und soziale Versorgung,Medizinische Versorgung,2017
+254,Kinderärzte,Pediatricians,Medizinische und soziale Versorgung,Medizinische Versorgung,2017
+255,Ärzte,Physicians,Medizinische und soziale Versorgung,Medizinische Versorgung,2017
+256,Ambulante Pflege,Outpatient care,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+257,Betreuungsquote Kleinkinder,Childcare rate for toddlers,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+258,Betreuungsquote Vorschulkinder,Childcare rate for preschool children,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+259,Empfänger von Pflegegeld,Recipients of care allowance,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+260,Ganztags-Betreuungsquote Kleinkinder,Full-day childcare rate for toddlers,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+261,Ganztags-Betreuungsquote Vorschulkinder,Full-day childcare rate for preschool children,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+262,Integrative Kindertageseinrichtungen,Integrative childcare facilities,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+263,Kinder ausländischer Herkunft in Tageseinrichtungen,Children of foreign origin in daycare,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+264,Personal in Pflegediensten,Staff in care services,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+265,Personal in Pflegeheimen,Staff in nursing homes,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+266,Pflegebedürftige,Care-dependent persons,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+267,Pflegeheimplätze,Nursing home places,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+268,Pädagogisches Personal in Tageseinrichtungen,Educational staff in daycare facilities,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+269,Stationäre Pflege,Inpatient care,Medizinische und soziale Versorgung,Soziale Versorgung,2017
+270,Anteil Selbständige an Insolvenzen,Share of self-employed in insolvencies,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+271,Arbeitsvolumen,Volume of work,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+272,Bruttoverdienst,Gross earnings,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+273,Bruttoverdienst im Produzierenden Gewerbe,Gross earnings in manufacturing,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+274,Einzelhandelsrelevante Kaufkraft,Retail-relevant purchasing power,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+275,Haushalte mit hohem Einkommen,High-income households,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+276,Haushalte mit mittlerem Einkommen,Medium-income households,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+277,Haushalte mit niedrigem Einkommen,Low-income households,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+278,Kaufkraft,Purchasing power,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+279,Medianeinkommen,Median income,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+280,Medianeinkommen 25 bis unter 55-Jährige,Median income aged 25 to under 55,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+281,Medianeinkommen 55 bis unter 65-Jährige,Median income aged 55 to under 65,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+282,Medianeinkommen Frauen,Female median income,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+283,Medianeinkommen Männer,Male median income,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+284,Medianeinkommen akademischer Berufsabschluss,Median income with academic degree,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+285,Medianeinkommen anerkannter Berufsabschluss,Median income with recognized vocational qualification,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+286,Monatliches Haushaltseinkommen,Monthly household income,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+287,Schuldnerquote,Debtor rate,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+288,Verbraucherinsolvenzverfahren,Consumer insolvency proceedings,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+289,Verbraucherinsolvenzverfahren Gläubigerforderungen,Consumer insolvency creditor claims,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+290,Verdienstabstand zwischen Frauen und Männern,Gender pay gap,"Privateinkommen, Private Schulden","Privateinkommen, Private Schulden",2017
+291,Arbeitsmarktpolitische Hilfen der BA für Arbeit (kurzfristig),Short-term labor market policy support (Federal Employment Agency),Raumwirksame Mittel,Raumwirksame Mittel,2019
+292,Arbeitsmarktpolitische Hilfen der BA für Arbeit (langfristig),Long-term labor market policy support (Federal Employment Agency),Raumwirksame Mittel,Raumwirksame Mittel,2019
+293,Direkte Projektförderung (kurfristig),Direct project funding (short-term),Raumwirksame Mittel,Raumwirksame Mittel,2019
+294,Direkte Projektförderung (langfristig),Direct project funding (long-term),Raumwirksame Mittel,Raumwirksame Mittel,2019
+295,"GRW, Bereich Förderung der gewerblichen Wirtschaft (kurzfristig)",GRW commercial economy support (short-term),Raumwirksame Mittel,Raumwirksame Mittel,2019
+296,"GRW, Bereich Förderung der gewerblichen Wirtschaft (langfristig)",GRW commercial economy support (long-term),Raumwirksame Mittel,Raumwirksame Mittel,2019
+297,"GRW, Bereich Förderung wirtschaftsnaher Infrastruktur (kurzfristig)",GRW economic infrastructure support (short-term),Raumwirksame Mittel,Raumwirksame Mittel,2019
+298,"GRW, Bereich Förderung wirtschaftsnaher Infrastruktur (langfristig)",GRW economic infrastructure support (long-term),Raumwirksame Mittel,Raumwirksame Mittel,2019
+299,Hochschulförderung (kurzfristig),University funding (short-term),Raumwirksame Mittel,Raumwirksame Mittel,2019
+300,Hochschulförderung (langfristig),University funding (long-term),Raumwirksame Mittel,Raumwirksame Mittel,2019
+301,Städtebauförderung (kurzfristig),Urban development funding (short-term),Raumwirksame Mittel,Raumwirksame Mittel,2019
+302,Städtebauförderung (langfristig),Urban development funding (long-term),Raumwirksame Mittel,Raumwirksame Mittel,2019
+303,(SDG 1) Armut - Altersarmut,(SDG 1) Poverty -- old-age poverty,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+304,(SDG 1) Armut - Kinderarmut,(SDG 1) Poverty -- child poverty,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+305,(SDG 1) SGB II-/SGB XII-Quote,(SDG 1) Social code II/XII rate,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+306,(SDG 10) Beschäftigungsquote - Ausländer,(SDG 10) Employment rate -- foreigners,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+307,(SDG 10) Einbürgerungen,(SDG 10) Naturalizations,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+308,(SDG 11) Angebotsmietpreise,(SDG 11) Asking rental prices,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+309,(SDG 11) Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie,(SDG 11) Completed residential buildings with renewable heating,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+310,(SDG 11) Flächeninanspruchnahme,(SDG 11) Land take,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+311,(SDG 11) Flächenneuinanspruchnahme,(SDG 11) New land take,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+312,(SDG 11) Flächennutzungsintensität,(SDG 11) Land use intensity,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+313,(SDG 11) Naherholungsflächen,(SDG 11) Local recreation areas,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+314,(SDG 11) PKW mit Elektroantrieb,(SDG 11) Electric cars,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2020
+315,(SDG 11) Pkw-Dichte,(SDG 11) Car density,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+316,(SDG 11) Verunglückte im Verkehr,(SDG 11) Traffic accident casualties,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+317,(SDG 11) Wohnfläche,(SDG 11) Living space,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+318,(SDG 11) Wohnungsnahe Grundversorgung - Supermarkt,(SDG 11) Local basic supply -- supermarket,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2021
+319,(SDG 12) Abfallmenge,(SDG 12) Waste volume,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+320,(SDG 12) Trinkwasserverbrauch - Private Haushalte,(SDG 12) Drinking water consumption -- private households,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2016
+321,(SDG 16) Liquiditätskredite,(SDG 16) Liquidity loans,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+322,(SDG 16) Steuereinnahmen,(SDG 16) Tax revenue,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+323,(SDG 16) Straftaten,(SDG 16) Criminal offenses,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+324,(SDG 2) Stickstoffüberschuss der Landwirtschaft,(SDG 2) Agricultural nitrogen surplus,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+325,(SDG 3) Personal in Pflegediensten,(SDG 3) Staff in care services,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+326,(SDG 3) Pflegeheimplätze,(SDG 3) Nursing home places,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+327,(SDG 3) Vorzeitige Sterblichkeit,(SDG 3) Premature mortality,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+328,(SDG 3) Wohnungsnahe Grundversorgung - Apotheke,(SDG 3) Local basic supply -- pharmacy,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2021
+329,(SDG 3) Wohnungsnahe Grundversorgung - Hausarzt,(SDG 3) Local basic supply -- family doctor,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2021
+330,(SDG 4) Betreuung von Kindern (unter 3-Jährige),(SDG 4) Childcare (under 3 years),SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+331,(SDG 4) Integrative Kindertageseinrichtungen,(SDG 4) Integrative childcare facilities,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+332,(SDG 4) Schulabbrecherquote,(SDG 4) School dropout rate,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+333,(SDG 4) Wohnungsnahe Grundversorgung - Grundschule,(SDG 4) Local basic supply -- primary school,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2023
+334,(SDG 5) Frauenanteil im Stadtrat bzw. Kreistag,(SDG 5) Share of women in council,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+335,(SDG 5) Verhältnis der Beschäftigungsquote von Frauen zu Männern,(SDG 5) Female to male employment rate ratio,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+336,(SDG 6) Abwasserbehandlung,(SDG 6) Wastewater treatment,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2013
+337,(SDG 7) Ladesäuleninfrastruktur,(SDG 7) Charging station infrastructure,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+338,(SDG 8) Beschäftigungsquote - 15- bis 64-Jährige,(SDG 8) Employment rate -- aged 15-64,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+339,(SDG 8) Beschäftigungsquote - 55 Jahre und älter,(SDG 8) Employment rate -- aged 55+,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+340,(SDG 8) Bruttoinlandsprodukt,(SDG 8) Gross domestic product,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+341,(SDG 8) Erwerbstätige Aufstocker,(SDG 8) Employed income top-up recipients,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+342,(SDG 8) Langzeitarbeitslosenquote,(SDG 8) Long-term unemployment rate,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+343,(SDG 9) Breitbandversorgung privater Haushalte,(SDG 9) Broadband coverage for private households,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+344,(SDG 9) Existenzgründungen,(SDG 9) Business start-ups,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+345,(SDG 9) Hochqualifizierte,(SDG 9) Highly qualified,SDG-Indikatoren für Kommunen,SDG-Indikatoren für Kommunen,2017
+346,Bevölkerung in Mittelzentren,Population in medium-sized centers,Siedlungsstruktur,Siedlungsstruktur,2019
+347,Bevölkerung in Oberzentren,Population in major centers,Siedlungsstruktur,Siedlungsstruktur,2019
+348,Einwohner-Arbeitsplatz-Dichte,Inhabitant-workplace density,Siedlungsstruktur,Siedlungsstruktur,2017
+349,Einwohnerdichte,Population density,Siedlungsstruktur,Siedlungsstruktur,2017
+350,Ländlichkeit,Rurality,Siedlungsstruktur,Siedlungsstruktur,2019
+351,Alleinerziehende erwerbsfähige Leistungsberechtigte,Single-parent employable benefit recipients,Sozialleistungen,Bedarfsgemeinschaften,2017
+352,Bedarfsgemeinschaften mit Kindern,Benefit households with children,Sozialleistungen,Bedarfsgemeinschaften,2017
+353,Einpersonen-Bedarfsgemeinschaften,Single-person benefit households,Sozialleistungen,Bedarfsgemeinschaften,2017
+354,Erwerbsfähige Leistungsberechtigte,Employable benefit recipients,Sozialleistungen,Bedarfsgemeinschaften,2017
+355,Erwerbsfähige Leistungsberechtigte (Frauen),Employable benefit recipients (women),Sozialleistungen,Bedarfsgemeinschaften,2017
+356,Große Bedarfsgemeinschaften,Large benefit households,Sozialleistungen,Bedarfsgemeinschaften,2017
+357,Junge erwerbsfähige Leistungsberechtigte,Young employable benefit recipients,Sozialleistungen,Bedarfsgemeinschaften,2017
+358,Kinderarmut,Child poverty,Sozialleistungen,Bedarfsgemeinschaften,2017
+359,Personen in Bedarfsgemeinschaften,Persons in benefit households,Sozialleistungen,Bedarfsgemeinschaften,2017
+360,Ältere erwerbsfähige Leistungsberechtigte,Older employable benefit recipients,Sozialleistungen,Bedarfsgemeinschaften,2017
+361,Asylbewerber,Asylum seekers,Sozialleistungen,Leistungsempfänger,2017
+362,Elterngeldbezieher (Mütter),Parental allowance recipients (mothers),Sozialleistungen,Leistungsempfänger,2017
+363,Elterngeldbezieher (Väter),Parental allowance recipients (fathers),Sozialleistungen,Leistungsempfänger,2017
+364,Elterngeldbezieher (Väter) im ersten Lebensjahr,Parental allowance recipients (fathers) in first year,Sozialleistungen,Leistungsempfänger,2017
+365,Empfänger von Grundsicherung im Alter (Altersarmut),Basic income support recipients in old age,Sozialleistungen,Leistungsempfänger,2017
+366,Empfänger von Mindestsicherungen,Minimum income support recipients,Sozialleistungen,Leistungsempfänger,2017
+367,Männliche Empfänger von Grundsicherung im Alter (Altersarmut),Male basic income support recipients in old age,Sozialleistungen,Leistungsempfänger,2017
+368,SGB II - Quote,Social code II rate,Sozialleistungen,Leistungsempfänger,2017
+369,Weibliche Empfänger von Grundsicherung im Alter (Altersarmut),Female basic income support recipients in old age,Sozialleistungen,Leistungsempfänger,2017
+370,Weibliche SGB II-Empfänger,Female social code II recipients,Sozialleistungen,Leistungsempfänger,2017
+371,Wohngeldhaushalte,Housing benefit households,Sozialleistungen,Leistungsempfänger,2017
+372,Wohngeldhaushalte (Lastenzuschuss),Housing benefit households (owner subsidy),Sozialleistungen,Leistungsempfänger,2017
+373,Wohngeldhaushalte (Mietzuschuss),Housing benefit households (rent subsidy),Sozialleistungen,Leistungsempfänger,2017
+374,ALG I-Leistungen,Unemployment benefit I payments,Sozialleistungen,Transferleistungen,2017
+375,ALG I-Leistungen Frauen,Unemployment benefit I payments (women),Sozialleistungen,Transferleistungen,2017
+376,ALG I-Leistungen Männer,Unemployment benefit I payments (men),Sozialleistungen,Transferleistungen,2017
+377,ALG II-Leistungen (Höhe),Unemployment benefit II amount,Sozialleistungen,Transferleistungen,2017
+378,ALG II-Leistungen an SGBII,Unemployment benefit II payments under SGB II,Sozialleistungen,Transferleistungen,2017
+379,Leistungen für Unterkunft (Höhe),Housing cost payments (amount),Sozialleistungen,Transferleistungen,2017
+380,Leistungen für Unterkunft an SGBII,Housing cost payments under SGB II,Sozialleistungen,Transferleistungen,2017
+381,Leistungen für Wohngeld,Housing benefit payments,Sozialleistungen,Transferleistungen,2017
+382,SGBII-Leistungen,Social code II payments,Sozialleistungen,Transferleistungen,2017
+383,Bandbreitenverfügbarkeit mindestens 1.000 Mbit/s,"Broadband availability >= 1,000 Mbit/s",Verkehr und Erreichbarkeit,Erreichbarkeit,2020
+384,Bandbreitenverfügbarkeit mindestens 100 Mbit/s,Broadband availability >= 100 Mbit/s,Verkehr und Erreichbarkeit,Erreichbarkeit,2017
+385,Bandbreitenverfügbarkeit mindestens 50 Mbit/s,Broadband availability >= 50 Mbit/s,Verkehr und Erreichbarkeit,Erreichbarkeit,2017
+386,Entfernung zum Hausarzt,Distance to family doctor,Verkehr und Erreichbarkeit,Erreichbarkeit,2023
+387,Entfernung zum Supermarkt/Discounter,Distance to supermarket/discounter,Verkehr und Erreichbarkeit,Erreichbarkeit,2023
+388,Entfernung zur Apotheke,Distance to pharmacy,Verkehr und Erreichbarkeit,Erreichbarkeit,2023
+389,Entfernung zur Grundschule,Distance to primary school,Verkehr und Erreichbarkeit,Erreichbarkeit,2023
+390,Entfernung zur ÖV Haltestelle,Distance to public transport stop,Verkehr und Erreichbarkeit,Erreichbarkeit,2022
+391,Erreichbarkeit von Autobahnen,Highway accessibility,Verkehr und Erreichbarkeit,Erreichbarkeit,2024
+392,Erreichbarkeit von Flughäfen,Airport accessibility,Verkehr und Erreichbarkeit,Erreichbarkeit,2024
+393,Erreichbarkeit von IC/EC/ICE-Bahnhöfen,IC/EC/ICE train station accessibility,Verkehr und Erreichbarkeit,Erreichbarkeit,2024
+394,Erreichbarkeit von Mittelzentren,Accessibility of medium-sized centers,Verkehr und Erreichbarkeit,Erreichbarkeit,2021
+395,Erreichbarkeit von Oberzentren,Accessibility of major centers,Verkehr und Erreichbarkeit,Erreichbarkeit,2021
+396,Nahversorgung Apotheke,Local supply -- pharmacy,Verkehr und Erreichbarkeit,Erreichbarkeit,2023
+397,Nahversorgung Grundschule,Local supply -- primary school,Verkehr und Erreichbarkeit,Erreichbarkeit,2023
+398,Nahversorgung Hausarzt,Local supply -- family doctor,Verkehr und Erreichbarkeit,Erreichbarkeit,2023
+399,Nahversorgung Supermarkt/Discounter,Local supply -- supermarket/discounter,Verkehr und Erreichbarkeit,Erreichbarkeit,2023
+400,Nahversorgung ÖV Haltestelle,Local supply -- public transport stop,Verkehr und Erreichbarkeit,Erreichbarkeit,2022
+401,Auspendler,Out-commuters,Verkehr und Erreichbarkeit,Pendler,2017
+402,Einpendler,In-commuters,Verkehr und Erreichbarkeit,Pendler,2017
+403,Pendlersaldo,Commuter balance,Verkehr und Erreichbarkeit,Pendler,2017
+404,Getötete im Straßenverkehr,Road traffic fatalities,Verkehr und Erreichbarkeit,Straßenverkehr,2017
+405,Ladepunkte je 100 Elektrofahrzeuge (BEV),Charging points per 100 electric vehicles (BEV),Verkehr und Erreichbarkeit,Straßenverkehr,2020
+406,Ladepunkte je 100.000 Einwohner,"Charging points per 100,000 inhabitants",Verkehr und Erreichbarkeit,Straßenverkehr,2017
+407,Pkw Benzin,Petrol cars,Verkehr und Erreichbarkeit,Straßenverkehr,2020
+408,Pkw Diesel,Diesel cars,Verkehr und Erreichbarkeit,Straßenverkehr,2020
+409,Pkw Elektro (BEV),Electric cars (BEV),Verkehr und Erreichbarkeit,Straßenverkehr,2020
+410,Pkw Gas,Gas-powered cars,Verkehr und Erreichbarkeit,Straßenverkehr,2020
+411,Pkw Hybrid insgesamt,Hybrid cars (total),Verkehr und Erreichbarkeit,Straßenverkehr,2020
+412,Pkw Plug-In-Hybrid (PHEV),Plug-in hybrid cars (PHEV),Verkehr und Erreichbarkeit,Straßenverkehr,2020
+413,Pkw-Dichte,Car density,Verkehr und Erreichbarkeit,Straßenverkehr,2017
+414,Straßenverkehrsunfälle,Road traffic accidents,Verkehr und Erreichbarkeit,Straßenverkehr,2017
+415,Verunglückte im Straßenverkehr,Road traffic casualties,Verkehr und Erreichbarkeit,Straßenverkehr,2017
+416,Ausländische Gäste in Beherbergungsbetrieben,Foreign guests in accommodation establishments,Wirtschaft,Fremdenverkehr,2017
+417,Gästeübernachtungen in Beherbergungsbetrieben,Guest overnight stays in accommodation establishments,Wirtschaft,Fremdenverkehr,2017
+418,Schlafgelegenheiten in Beherbergungsbetrieben,Beds in accommodation establishments,Wirtschaft,Fremdenverkehr,2019
+419,Verweildauer in Beherbergungsbetrieben,Length of stay in accommodation establishments,Wirtschaft,Fremdenverkehr,2017
+420,Anteil Bruttowertschöpfung Primärer Sektor,Gross value added share -- primary sector,Wirtschaft,Wirtschaftliche Leistung,2017
+421,Anteil Bruttowertschöpfung Sekundärer Sektor,Gross value added share -- secondary sector,Wirtschaft,Wirtschaftliche Leistung,2017
+422,Anteil Bruttowertschöpfung Tertiärer Sektor,Gross value added share -- tertiary sector,Wirtschaft,Wirtschaftliche Leistung,2017
+423,Auslandsumsatz im Bergbau u. Verarb. Gewerbe,Foreign revenue in mining and manufacturing,Wirtschaft,Wirtschaftliche Leistung,2017
+424,Bruttoinlandsprodukt je Einwohner,GDP per inhabitant,Wirtschaft,Wirtschaftliche Leistung,2017
+425,Bruttoinlandsprodukt je Erwerbstätigen,GDP per employed person,Wirtschaft,Wirtschaftliche Leistung,2017
+426,Bruttowertschöpfung je Erwerbstätigen,Gross value added per employed person,Wirtschaft,Wirtschaftliche Leistung,2017
+427,Bruttowertschöpfung je Erwerbstätigen Primärer Sektor,Gross value added per employed -- primary sector,Wirtschaft,Wirtschaftliche Leistung,2017
+428,Bruttowertschöpfung je Erwerbstätigen Sekundärer Sektor,Gross value added per employed -- secondary sector,Wirtschaft,Wirtschaftliche Leistung,2017
+429,Bruttowertschöpfung je Erwerbstätigen Tertiärer Sektor,Gross value added per employed -- tertiary sector,Wirtschaft,Wirtschaftliche Leistung,2017
+430,Großunternehmen,Large enterprises,Wirtschaft,Wirtschaftliche Leistung,2017
+431,Investitionen im Bergbau und Verarb. Gewerbe,Investment in mining and manufacturing,Wirtschaft,Wirtschaftliche Leistung,2017
+432,Kleinbetriebe,Small establishments,Wirtschaft,Wirtschaftliche Leistung,2017
+433,Kleinstbetriebe,Micro establishments,Wirtschaft,Wirtschaftliche Leistung,2017
+434,Mittlere Unternehmen,Medium-sized enterprises,Wirtschaft,Wirtschaftliche Leistung,2017
+435,Umsatz Bauhauptgewerbe,Revenue in main construction industry,Wirtschaft,Wirtschaftliche Leistung,2017
+436,Umsatz im Bergbau u. Verarb. Gewerbe,Revenue in mining and manufacturing,Wirtschaft,Wirtschaftliche Leistung,2017
+437,Umsatz im Handwerk,Revenue in skilled trades,Wirtschaft,Wirtschaftliche Leistung,2017
+438,Unternehmensinsolvenzen,Business insolvencies,Wirtschaft,Wirtschaftliche Leistung,2017
+439,Unternehmensinsolvenzen Gläubigerforderungen,Business insolvency creditor claims,Wirtschaft,Wirtschaftliche Leistung,2017
+440,Allgemeinbildende Schulen,General education schools,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2018
+441,Allgemeinbildende Schulen mit Förderschwerpunkt,General education schools with special needs focus,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2018
+442,Berufsbildende Schulen,Vocational schools,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2018
+443,Bibliotheken,Libraries,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2017
+444,Bibliotheksentleihungen,Library loans,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2017
+445,Bäder,Swimming pools,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2022
+446,Grundschulen,Primary schools,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2018
+447,Hochschulen gesamt,Universities (total),Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2021
+448,Kindertagesstätten,Daycare centers,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2018
+449,Kinos,Cinemas,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2017
+450,Kinositzplätze,Cinema seats,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2017
+451,Kinosäle,Cinema screens,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2017
+452,Nicht öffentliche Bäder,Non-public swimming pools,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2022
+453,Schüler an Grundschulen,Primary school students,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2018
+454,Schüler an Grundschulen je 1.000 Einwohner,"Primary school students per 1,000 inhabitants",Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2018
+455,Schüler an allgemeinbildenden Schulen,General education school students,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2019
+456,Schüler an allgemeinbildenden Schulen je 1.000 Einwohner,"General education students per 1,000 inhabitants",Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2019
+457,Schüler an allgemeinbildenden Schulen mit Förderschwerpunkt,Special needs students in general education,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2018
+458,Schüler an allgemeinbildenden Schulen mit Förderschwerpunkt je 1.000 Einwohner,"Special needs students per 1,000 inhabitants",Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2018
+459,Schüler an berufsbildenden Schulen,Vocational school students,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2018
+460,Schüler an berufsbildenden Schulen je 1.000 Einwohner,"Vocational students per 1,000 inhabitants",Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2018
+461,Schüler an weiterführenden Schulen,Secondary school students,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2019
+462,Schüler an weiterführenden Schulen je 1.000 Einwohner,"Secondary students per 1,000 inhabitants",Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2019
+463,Spezialbibliotheken,Special libraries,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2017
+464,Studierende an Fachhochschulen je 1.000 Einwohner,"University of applied sciences students per 1,000 inhabitants",Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2017
+465,Studierende an Hochschulen,University students,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2017
+466,Studierende an Hochschulen je 1.000 Einwohner,"University students per 1,000 inhabitants",Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2017
+467,Weiterführende Schulen,Secondary schools,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2018
+468,Wissenschaftliche Bibliotheken,Academic libraries,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2017
+469,Öffentliche Bibliotheken,Public libraries,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2017
+470,Öffentliche Bäder,Public swimming pools,Zentrale Orte Monitoring,Bildungsversorgungs- und Kulturfunktion,2022
+471,Apotheken,Pharmacies,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2017
+472,Einwohner je Arzt,Inhabitants per physician,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2017
+473,Krankenhäuser der Basisnotfallversorgung,Hospitals with basic emergency care,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2020
+474,Krankenhäuser der Erweiterten Notfallversorgung,Hospitals with extended emergency care,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2020
+475,Krankenhäuser der Umfassenden Notfallversorgung,Hospitals with comprehensive emergency care,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2020
+476,Krankenhäuser insgesamt,Total hospitals,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2020
+477,Krankenhäuser mit Nofallversorgung Kinder,Hospitals with pediatric emergency care,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2020
+478,Krankenhäuser mit Schlaganfallversorgung,Hospitals with stroke care,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2020
+479,Krankenhäuser mit Schwerverletztenversorgung,Hospitals with major trauma care,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2020
+480,Krankenhäuser mit Spezialversorgung,Hospitals with specialized care,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2020
+481,Krankenhäuser mit Versorgung für akute Herzerkrankungen,Hospitals with acute cardiac care,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2020
+482,Krankenhäuser ohne allg. stationäre Notfallversorgung,Hospitals without general inpatient emergency care,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2020
+483,Seniorenheime,Senior homes,Zentrale Orte Monitoring,Gesundheitsversorgungsfunktion,2024
+484,Bevölkerung,Population,Zentrale Orte Monitoring,Rahmendaten Zentraler Orte ,2017
+485,Bevölkerungsentwicklung,Population development,Zentrale Orte Monitoring,Rahmendaten Zentraler Orte ,2017
+486,Bahn-Abfahrten,Train departures,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2018
+487,Bahnhaltestellen,Train stops,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2018
+488,Bus-Abfahrten,Bus departures,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2018
+489,Bushaltestellen,Bus stops,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2018
+490,Erreichbarkeit Autobahnen,Highway accessibility,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2024
+491,Erreichbarkeit Flughäfen,Airport accessibility,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2024
+492,Erreichbarkeit KV-Terminal,Combined transport terminal accessibility,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2021
+493,Postagenturen der Deutschen Post AG,German Post agencies,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2021
+494,Postfilialen der Deutschen Post AG,German Post branches,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2021
+495,Postfillialen insgesamt,Total post offices,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2024
+496,U-/Strassenbahnhaltestellen,Metro/tram stops,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2018
+497,U-/Straßenbahn-Abfahrten,Metro/tram departures,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2018
+498,hochfrequentierte Bahnhaltestellen,High-frequency train stops,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2020
+499,hochfrequentierte Bushaltestellen,High-frequency bus stops,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2020
+500,hochfrequentierte U-/Strassenbahnhaltestellen,High-frequency metro/tram stops,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2020
+501,hochfrequentierte ÖV-Haltestellen,High-frequency public transport stops,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2020
+502,ÖV-Abfahrten,Public transport departures,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2018
+503,ÖV-Haltestellen,Public transport stops,Zentrale Orte Monitoring,Verkehrs- und Kommunikationsfunktion,2018
+504,Arbeitslosigkeit,Unemployment,Zentrale Orte Monitoring,Wirtschafts- und Arbeitsmarktfunktion,2017
+505,Arbeitsplatzzentralität,Workplace centrality,Zentrale Orte Monitoring,Wirtschafts- und Arbeitsmarktfunktion,2017
+506,Beschäftigtendichte (AO),Employee density (at workplace),Zentrale Orte Monitoring,Wirtschafts- und Arbeitsmarktfunktion,2017
+507,Beschäftigtendichte (WO),Employee density (at residence),Zentrale Orte Monitoring,Wirtschafts- und Arbeitsmarktfunktion,2017
+508,sozialversicherungspflichtig Beschäftigte Auspendler,Insured employees -- out-commuters,Zentrale Orte Monitoring,Wirtschafts- und Arbeitsmarktfunktion,2017
+509,sozialversicherungspflichtig Beschäftigte Binnenpendler ,Insured employees -- internal commuters,Zentrale Orte Monitoring,Wirtschafts- und Arbeitsmarktfunktion,2017
+510,sozialversicherungspflichtig Beschäftigte Einpendler,Insured employees -- in-commuters,Zentrale Orte Monitoring,Wirtschafts- und Arbeitsmarktfunktion,2017
+511,sozialversicherungspflichtig Beschäftigte am Arbeitsort,Insured employees at workplace,Zentrale Orte Monitoring,Wirtschafts- und Arbeitsmarktfunktion,2017
+512,sozialversicherungspflichtig Beschäftigte am Wohnort,Insured employees at residence,Zentrale Orte Monitoring,Wirtschafts- und Arbeitsmarktfunktion,2017
+513,Amtsgerichte,District courts,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2018
+514,Arbeitsagenturen,Employment agencies,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2021
+515,Arbeitsmarktverwaltungseinrichtungen,Labor market administration facilities,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2021
+516,Finanzämter,Tax offices,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2018
+517,Gemeindeverwaltungen,Municipal administrations,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2017
+518,Gerichte,Courts,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2018
+519,Jobcenter,Job centers,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2021
+520,Kreisverwaltungen,District administrations,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2017
+521,Landgerichte,Regional courts,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2018
+522,Nebenstelle eines Amtsgerichts,District court branch office,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2018
+523,Nebenstelle eines Landgerichts,Regional court branch office,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2018
+524,Nebenstelle eines Oberlandesgerichts,Higher regional court branch office,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2018
+525,Oberlandesgerichte,Higher regional courts,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2018
+526,Polizeidienststellen,Police stations,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2019
+527,"Polizeidienststellen, durchgehend besetzt",Police stations -- 24-hour staffed,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2019
+528,"Polizeidienststellen, teilweise besetzt",Police stations -- partially staffed,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2019
+529,Sonstige Arbeitsmarktverwaltungseinrichtungen,Other labor market administration facilities,Zentrale Orte Monitoring,Öffentliche Verwaltungsfunktion,2021
+530,Ausgaben für Sachinvestitionen,Capital investment expenditure,Öffentliche Finanzen,Öffentliche Finanzen,2017
+531,Einkommensteuer,Income tax,Öffentliche Finanzen,Öffentliche Finanzen,2017
+532,Gewerbesteuer,Trade tax,Öffentliche Finanzen,Öffentliche Finanzen,2017
+533,Kassenkredite,Cash loans,Öffentliche Finanzen,Öffentliche Finanzen,2017
+534,Kommunale Schulden,Municipal debt,Öffentliche Finanzen,Öffentliche Finanzen,2017
+535,Personal der Kommunen,Municipal personnel,Öffentliche Finanzen,Öffentliche Finanzen,2017
+536,Schlüsselzuweisungen,General grants,Öffentliche Finanzen,Öffentliche Finanzen,2017
+537,Steuereinnahmen,Tax revenue,Öffentliche Finanzen,Öffentliche Finanzen,2017
+538,Steuerkraft,Tax capacity,Öffentliche Finanzen,Öffentliche Finanzen,2017
+539,Umsatzsteuer,Sales tax,Öffentliche Finanzen,Öffentliche Finanzen,2017
+540,Zuweisungen für Investitionsfördermaßnahmen,Investment promotion grants,Öffentliche Finanzen,Öffentliche Finanzen,2017
